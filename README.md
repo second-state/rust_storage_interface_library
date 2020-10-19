@@ -1,3 +1,9 @@
+# This Repository Is Deprecated
+
+This library has been renamed and moved to [ssvm_storage_interface](https://github.com/second-state/ssvm_storage_interface).
+Please follow the resulting [new ssvm_storage_interface crate](https://crates.io/crates/ssvm_storage_interface) for further development.
+No further development will take place in this repository.
+
 # Rust Storage Interface Library
 
 A Rust library that provides Rust to WebAssembly developers with syntax for "load" & "store" functionality for their data when their Wasm is being executed on SecondState's SSVM.
